@@ -57,7 +57,7 @@ var routes = require('./api/routes/routes');
 routes(app);
 
 //Initialize app resources
-app.listen(80);
+app.listen(process.env.PORT || 80);
 //https.createServer(options, app).listen(443);
 
 //Log start of API
