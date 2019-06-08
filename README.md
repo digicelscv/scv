@@ -1,6 +1,6 @@
-# scv
+# SCV-API
 
-### About Digicel SCV?
+### About Digicel SCV-API?
 
 Digicel SCV is a Single Customer View used by its agents to deliver customer administration and support.
 Imeplemnted through a responsive and mobile-first **Progressive Web App (PWA)**, Digicel SCV is built using the **MEAN stack**.
