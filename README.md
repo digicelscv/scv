@@ -8,12 +8,10 @@ As such, the following environment is used:
 
  - Front-End
    - Angular 8
-
  - Back-End (RESTful API)
    - Node 10.15.3
    - Express 4.17.1
    - MongoDB 4.0.10
-
  - Development OS: Windows 10 Home (64-bit)
 
 ### How to run the SCV RESTful API
